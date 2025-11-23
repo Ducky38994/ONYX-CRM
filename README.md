@@ -1,2 +1,7 @@
 ## ONYX MACHINERY PRIVATE LIMITED
-Just go to "https://5inbuof2qxkhy.mocha.app/"
+# QuotaFlow
+
+A simple and clean quotation management interface.
+
+## Running the Dev Server
+
