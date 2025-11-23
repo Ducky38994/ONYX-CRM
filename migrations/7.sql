@@ -1,0 +1,4 @@
+
+ALTER TABLE products ADD COLUMN hsn_code TEXT;
+ALTER TABLE products ADD COLUMN currency TEXT DEFAULT 'USD';
+ALTER TABLE products ADD COLUMN image_url TEXT;
